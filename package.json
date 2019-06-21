@@ -45,8 +45,8 @@
   "license": "MIT",
   "name": "@agm/js-marker-clusterer",
   "peerDependencies": {
-    "@angular/core": "^4.0.0 || ^5.0.0",
-    "@agm/core": "^1.0.0-beta.2",
+    "@angular/core": "^8.0.2",
+    "@agm/core": "^1.0.0-beta.6",
     "js-marker-clusterer-universal": "^1.0.0"
   },
   "repository": {
